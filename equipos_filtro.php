@@ -53,14 +53,14 @@
     <div class="page-title-area bg-18">
         <div class="container">
             <div class="page-title-content">
-                <h2>Filtración</h2>
+                <h2>Filtros</h2>
                 <ul>
                     <li>
                         <a href="index.php">
                             Inicio
                         </a>
                     </li>
-                    <li class="active">Filtración</li>
+                    <li class="active">Filtros</li>
                 </ul>
             </div>
         </div>
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="section-title" style="margin: -5px auto 50px;text-align: justify;">
 
-                <h3 style="text-align: center">Filtración</h3>           
+                <h3 style="text-align: center">Filtros</h3>           
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">

@@ -576,7 +576,7 @@
 
 
     <section class="contact-info-area">
-        <div class="container">
+    
             <div class="contact-info-bg">
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
@@ -609,100 +609,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+
     </section>
 
 
-    <section class="blog-area pt-100 pb-70">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-8 col-sm-6">
-                    <div class="section-title left-title">
-                        <span>Nuevos Posts</span>
-                        <h2>Publicaciones de historias de éxito</h2>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="section-btn">
-                        <a href="#!" class="default-btn">
-                            <span>View all</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="blog-img">
-                            <a href="#!">
-                                <img src="assets/img/blog/blog-1.jpg" alt="Image">
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <h3>
-                                <a href="#!">5 formas efectivas de mantener limpia su piscina</a>
-                            </h3>
-                            <ul>
-                                <li>
-                                    <a href="#">Andrew lawson</a>
-                                </li>
-                                <li>
-                                    <span>28-09-2020</span>
-                                </li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="blog-img">
-                            <a href="#!">
-                                <img src="assets/img/blog/blog-2.jpg" alt="Image">
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <h3>
-                                <a href="#!">¿Cómo puedo hacer que mi piscina sea ecológica?</a>
-                            </h3>
-                            <ul>
-                                <li>
-                                    <a href="#">Lawson Eugene</a>
-                                </li>
-                                <li>
-                                    <span>29-09-2020</span>
-                                </li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
-                    <div class="single-blog-post">
-                        <div class="blog-img">
-                            <a href="#!">
-                                <img src="assets/img/blog/blog-3.jpg" alt="Image">
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <h3>
-                                <a href="#!">Planifique la renovación perfecta de la piscina del patio trasero</a>
-                            </h3>
-                            <ul>
-                                <li>
-                                    <a href="#">Angel james </a>
-                                </li>
-                                <li>
-                                    <span>30-09-2020</span>
-                                </li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
 
     <section class="subscribe-area">

@@ -13,13 +13,13 @@
 
                         </li>
                         <li class="flag-item-top">
-                            <a href="#" class="flag-bar" style="color: white;padding-left: 15px;">
+                            <a href="javascript:void(0)" class="flag-bar" style="color: white;padding-left: 15px;">
                                 <span>Empresa | </span>
                             </a>
 
                         </li>
                         <li class="flag-item-top">
-                            <a href="#" class="flag-bar" style="color: white;padding-left: 15px;">
+                            <a href="javascript:void(0)" class="flag-bar" style="color: white;padding-left: 15px;">
                                 <span>Localización | </span>
                             </a>
 
@@ -67,7 +67,7 @@
     <div class="navbar-area">
         <div class="mobile-nav">
             <div class="container-fluid">
-                <a href="#!" class="logo">
+                <a href="javascript:void(0)" class="logo">
                     <img src="http://www.piscinasarroyomolinos.es/s/misc/logo.jpg?t=1617297049" alt="Image"
                         style="width: 90px;">
                 </a>
@@ -76,7 +76,7 @@
         <div class="main-nav">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-md">
-                    <a class="navbar-brand" href="#!">
+                    <a class="navbar-brand" href="javascript:void(0)">
                         <img src="http://www.piscinasarroyomolinos.es/s/misc/logo.jpg?t=1617297049" alt="Image"
                             style="width: 90px;">
                     </a>
@@ -84,7 +84,7 @@
                         <ul class="navbar-nav m-auto">
                           
                             <li class="nav-item">
-                                <a href="#!" class="nav-link">Equipos</a>
+                                <a href="javascript:void(0)" class="nav-link">Equipos</a>
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -116,7 +116,7 @@
 
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="javascript:void(0)" class="nav-link">
                                     Piscinas
                                 </a>
 
@@ -138,7 +138,7 @@
 
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="javascript:void(0)" class="nav-link">
                                     Servicios
                                 </a>
                                 <ul class="dropdown-menu">
@@ -168,19 +168,19 @@
 
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="javascript:void(0)" class="nav-link">
                                     Bombas de calor
                                 </a>
 
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="equipos_salinos.php" class="nav-link">
                                     Cloradores salinos
                                 </a>
 
                             </li>
                             <li class="nav-item">
-                                <a href="#!" class="nav-link">filtros</a>
+                                <a href="equipos_filtro.php" class="nav-link">filtros</a>
                             </li>
                             <li class="nav-item">
                                 <a href="lonas.php" class="nav-link">Lonas</a>
@@ -206,7 +206,7 @@
                                 </div>
                             </div>
                             <!-- <div class="cart-icon">
-                            <a href="#!">
+                            <a href="javascript:void(0)">
                                 <i class="bx bx-cart"></i>
                                 <span>0</span>
                             </a>
@@ -247,7 +247,7 @@
                                 </div>
                             </div>
                             <div class="cart-icon">
-                                <a href="#!">
+                                <a href="javascript:void(0)">
                                     <i class="bx bx-cart"></i>
                                     <span>0</span>
                                 </a>
