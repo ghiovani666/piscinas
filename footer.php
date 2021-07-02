@@ -4,7 +4,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single-footer-widget">
                     <a href="#!" class="logo">
-                        <img src="http://www.piscinasarroyomolinos.es/s/misc/logo.jpg?t=1617297049" alt="Image"
+                        <img src="assets/img/logos.jpg" alt="Image"
                             style="width: 150px;">
                     </a>
                     <p>Le ofrecemos un mantenimiento anual ,servicio a domicilio.Trabajamos con las mejores marcas

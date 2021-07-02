@@ -101,7 +101,7 @@
     </div>
 
 
-    <section class="about-area pt-100 pb-70">
+    <section class="about-area pt-100 pb-70" id="about_home">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="about-content">
-                        <span class="top-title">¡Bienvenido a Piscinas Cuamar Arroyomolinos!</span>
+                        <h2>¡Bienvenido a Piscinas Cuamar Arroyomolinos!</h2>
                    
                         <p>Le ofrecemos un mantenimiento anual ,servicio a domicilio.Trabajamos con las mejores marcas (hayward,astral pool, piscinas coimpol..) para poder ofrecer a nuestros clientes un producto de calidad. Ponemos nuestra experiencia a su disposición. Conseguir la satisfacción de nuestros clientes es nuestro principal objetivo.Le ofrecemos los precios más competitivos del mercado y nos adaptaresmos a su presupuesto. Nos ocuparemos de realizar su proyecto en el plazo más corto posible para que pueda disfrutar cuanto antes de su piscina.Todos nuestros productos disponen de su propia garantía. Contacte con nosotros: si hay algo que necesita y no encuentra, lo buscaremos por usted. Le atenderemos personalmente en su domicilio en cualquiera de nuestras tiendas.</p>
                         <a href="#!" class="default-btn">

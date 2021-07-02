@@ -13,13 +13,13 @@
 
                         </li>
                         <li class="flag-item-top">
-                            <a href="javascript:void(0)" class="flag-bar" style="color: white;padding-left: 15px;">
+                            <a href="#about_home" class="flag-bar" style="color: white;padding-left: 15px;">
                                 <span>Empresa | </span>
                             </a>
 
                         </li>
                         <li class="flag-item-top">
-                            <a href="javascript:void(0)" class="flag-bar" style="color: white;padding-left: 15px;">
+                            <a href="localizacion.php" class="flag-bar" style="color: white;padding-left: 15px;">
                                 <span>Localización | </span>
                             </a>
 
@@ -67,8 +67,8 @@
     <div class="navbar-area">
         <div class="mobile-nav">
             <div class="container-fluid">
-                <a href="javascript:void(0)" class="logo">
-                    <img src="http://www.piscinasarroyomolinos.es/s/misc/logo.jpg?t=1617297049" alt="Image"
+                <a href="index.php" class="logo">
+                    <img src="assets/img/logos.jpg" alt="Image"
                         style="width: 90px;">
                 </a>
             </div>
@@ -77,7 +77,7 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-md">
                     <a class="navbar-brand" href="javascript:void(0)">
-                        <img src="http://www.piscinasarroyomolinos.es/s/misc/logo.jpg?t=1617297049" alt="Image"
+                        <img src="assets/img/logos.jpg" alt="Image"
                             style="width: 90px;">
                     </a>
                     <div class="collapse navbar-collapse mean-menu">
@@ -168,7 +168,7 @@
 
                             </li>
                             <li class="nav-item">
-                                <a href="javascript:void(0)" class="nav-link">
+                                <a href="equipos_bombas.php" class="nav-link">
                                     Bombas de calor
                                 </a>
 

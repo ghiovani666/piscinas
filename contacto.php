@@ -49,6 +49,7 @@
     width: 100%;
 }
 </style>
+
 <body>
 
     <div class="preloader">
@@ -91,8 +92,8 @@
                                 <i class="bx bxs-location-plus"></i>
                                 <span>Dirección</span>
                                 Piscinas Arroyomolinos
-Calle Torneros 2
-28939 Arroyomolinos
+                                Calle Torneros 2
+                                28939 Arroyomolinos
                             </li>
                             <li>
                                 <i class="bx bxs-phone-call"></i>
