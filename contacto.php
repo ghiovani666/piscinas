@@ -231,5 +231,7 @@
 </body>
 
 <!-- Mirrored from templates.envytheme.com/Piscinas Arroyomolinos/default/services-style-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 May 2021 17:56:04 GMT -->
-
+<script>
+    $("#id_about_home").hide()
+</script>
 </html>

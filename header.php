@@ -13,7 +13,7 @@
 
                         </li>
                         <li class="flag-item-top">
-                            <a href="#about_home" class="flag-bar" style="color: white;padding-left: 15px;">
+                            <a href="#about_home" id="id_about_home" class="flag-bar" style="color: white;padding-left: 15px;">
                                 <span>Empresa | </span>
                             </a>
 
