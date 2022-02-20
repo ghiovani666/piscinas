@@ -234,29 +234,5 @@
 <!-- Mirrored from templates.envytheme.com/Piscinas Arroyomolinos/default/services-style-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 May 2021 17:56:04 GMT -->
 <script>
     $("#id_about_home").hide()
-
-    //enviar contacto
-$("#myform2").submit(function(e) {
-    e.preventDefault();
-    $.ajax({
-        type: 'post',
-        url: 'ajax/email_contacto.php',
-        data: $('form').serialize(),
-        success: function(response) {
-            console.log(response)
-        }
-    });
-});
-
-
-$("#myform2").submit(function(e) {
-    e.preventDefault();
-    Swal.fire({
-        title: 'Envío exitoso'
-    })
-    $('input').val('')
-    $('textarea').val('')
-});
-
 </script>
 </html>

@@ -53,14 +53,14 @@
     <div class="page-title-area bg-18">
         <div class="container">
             <div class="page-title-content">
-                <h2>Piscinas de Obra</h2>
+                <h2>Piscinas de Fibra</h2>
                 <ul>
                     <li>
                         <a href="index.php">
                             Inicio
                         </a>
                     </li>
-                    <li class="active">Piscinas de Obra</li>
+                    <li class="active">Piscinas de Fibra</li>
                 </ul>
             </div>
         </div>
@@ -69,151 +69,105 @@
 
     <section class="our-services-area our-services-area-three bg-color pt-100 pb-70">
         <div class="container">
-            <div class="section-title" style="margin: -5px auto 50px;text-align: justify;">
+            <div class="section-title">
 
-                <h3 style="text-align: center">La Piscina de obra: un traje a medida.</h3>
+                <h3>Amplia gama de modelos de piscinas de poliester a elegir</h3>
 
-                <p>Las piscinas de obra te permiten elegir forma, medidas, acabados y accesorios con total libertad.
-                    Cualquier cosa que imagines podremos convertirlo en realidad. Además, podremos adaptar tu proyecto
-                    de piscina al presupuesto que tengas disponible.
-
-                    Para conseguir tu piscina ideal, solo tienes que trasladarnos tu idea. Mediante el método de
-                    gunitado (proyección de mortero) podremos materializar tu diseño.
-
-                    Tanto si ya tienes una idea en tu cabeza como si quieres que te ayudemos a proyectarla, ponte en
-                    contacto con nosotros y solicítanos presupuesto. Te podremos preparar un presupuesto aproximado pero
-                    para realizar una valoración precisa, te visitaremos y veremos in situ las condiciones de acceso y
-                    todos los detalles que debemos conocer para poder desarrollar un proyecto preciso y entregarte un
-                    presupuesto exacto.</p>
-
-                <p>La información imprescindible que necesitaremos valorar será:</p>
-
-                <p> ↓ Largo y ancho</p>
-                <p> ↓ Profundidad máxima y mínima,</p>
-                <p> ↓ Tipo y color del revestimiento.</p>
-                <p> ↓ Elementos decorativos (como cenefas odibujos)</p>
-                <p> ↓ Si quieres escaleras de obra o playa (rampa)</p>
-                <p> ↓ Accesorios (luces, barandillas, ducha solar, jacuzzi incorporado de obra, contracorriente,
-                    clorador salino, regulador automático de PH, robot limpiafondos, lona de verano o invierno .</p>
-                <p> ↓ Realizaremos el proyecto guiándote paso a paso con el objetivo de conseguir una piscina que se
-                    ajuste realmente a tus necesidades.</p>
-                <p> Tomaremos medidas sobre el terreno, valoraremos el entorno vegetal, la orientación solar y te
-                    realizaremos todas las preguntas necesarias para poder completar un proyecto que satisfaga tus
-                    expectativas.</p>
-                <p> Con el primer proyecto en mano, lo revisaremos contigo y realizaremos los cambios necesarios para
-                    pulir hasta el último detalle de tu piscina.
-
-                    Ahora podemos prepararte un presupuesto que, gracias al trabajo y los ajustes realizados en equipo,
-                    se ajuste completmanete a tus expectativas.
-
-                    Una vez aprobado el presupuesto llegamos a la fase de construcción, llenado y puesta en marcha de tu
-                    nueva piscina.
-
-                    Por último, te enseñaremos a manejar la depuradora y a llevar a cabo las labores básicas de
-                    mantenimiento. Además, te dejaremos los datos de nuestro servicio técnico para que pueda ayudarte en
-                    caso de que lo necesites en algún momento
-
-
-
-                    Por fin podrás empezar a disfrutar de una piscina única, construida exclusivamente para ti y tu
-                    familia.</p>
-
+                <p>En COINPOL hemos tomado desde siempre un absoluto compromiso hacia nuestros clientes. Por ello,
+                    realizamos un riguroso seguimiento del proceso de fabricación de nuestras piscinas, llegándole a
+                    usted un producto de excelente calidad compuesto por material de poliéster reforzado con fibra de
+                    vidrio. Los refuerzos están fabricados del mismo material, con el fin de eliminar partes metálicas
+                    que pudieran provocar oxidaciones.</p>
 
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    ACAPULCO
+                                ACAPULCO
                                 </a>
                             </h3>
-
+                          
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/Bahia-medidas-660x449.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    BAHÍA
+                                BAHÍA
                                 </a>
                             </h3>
-
+                           
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/balear-medidas-660x449.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    BALEAR
+                                BALEAR
                                 </a>
                             </h3>
-
+                          
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/beatriz-medidas-660x449.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    BEATRIZ
+                                BEATRIZ
                                 </a>
                             </h3>
-
+                           
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/canarias-medidas-660x449.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    CANARIAS
+                                CANARIAS
                                 </a>
                             </h3>
-
+                         
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/04/portada-comunidad.png" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    COMUNIDAD
+                                COMUNIDAD
                                 </a>
                             </h3>
-
+                          
                         </div>
                     </div>
                 </div>

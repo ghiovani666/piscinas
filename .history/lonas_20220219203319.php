@@ -53,14 +53,14 @@
     <div class="page-title-area bg-18">
         <div class="container">
             <div class="page-title-content">
-                <h2>Jacuzzis</h2>
+                <h2>LONAS PARA TU PISCINA</h2>
                 <ul>
                     <li>
                         <a href="index.php">
                             Inicio
                         </a>
                     </li>
-                    <li class="active">Jacuzzis</li>
+                    <li class="active">LONAS PARA TU PISCINA</li>
                 </ul>
             </div>
         </div>
@@ -71,65 +71,69 @@
         <div class="container">
             <div class="section-title" style="margin: -5px auto 50px;text-align: justify;">
 
-                <h3 style="text-align: center">CUAMAR PISCINAS, SAUNAS Y SPAS</h3>
+                <h3 style="text-align: center">COBERTO O LONA DE INVIERNO.</h3>
 
-                <h4>Un lujo a su alcance</h4>
+                <p>El precio incluye todos los accesorios para la instalación. Precio por m2.</p>
 
-                <p>¿Ha soñado alguna vez con un spa privado? Cuamar puede hacer que sus sueños se hagan realidad.
-                    Tenemos una gran selección de spas para que pueda encontrar el que mejor se adapte a sus
-                    necesidades, tanto si se trata de un jacuzzi, hidromasaje o spas de natación.</p>
+                <h4>CUALIDADES:</h4>
 
-                <h4>Un lujo a su alcance</h4>
-
-                <p>¿Ha soñado alguna vez con un spa privado? Cuamar puede hacer que sus sueños se hagan realidad.
-                    Tenemos una gran selección de spas para que pueda encontrar el que mejor se adapte a sus
-                    necesidades, tanto si se trata de un jacuzzi, hidromasaje o spas de natación.</p>
-
-                <h4>Compruebe la calidad</h4>
-
-                <p>Disfrute de su Spa sabiendo que vamos a estar a su disposición con los conocimientos, la experiencia
-                    y la dedicación necesaria para brindarle todo el apoyo que necesite en el futuro. Contamos con una
-                    exposición donde podrá ver los materiales utilizados y el funcionamiento de nuestros spas. Le
-                    garantizamos que usted puede disfrutar de su spa durante años. También proporcionamos los primeros
-                    dos años de garantía completa con la compra de su spa.</p>
-
-                <h4 style="text-align: center">¡Esperamos verle pronto en nuestras instalaciones!</h4>
-
-                <h3>SAUNAS DE INFRARROJOS</h3>
+                <p> ↓ Evita la descomposición del agua.</p>
+                <p> ↓ Anula los efectos de las heladas</p>
+                <p> ↓ Impide el paso de la suciedad.</p>
+                <p> ↓ Suprime los trabajos de puesta a punto.</p>
+                <p> ↓ Conserva el vaso de la piscina.</p>
+                <p> ↓ Ahorra gran cantidad de agua</p>
+                <p> ↓ Gran resistencia al peso.</p>
 
 
 
-                <h4>¿QUE ES EL INFRARROJO?</h4>
+                <h4>CARACTERISTICAS::</h4>
 
-                <p>El infrarrojo es la banda de luz que percibimos como calor a simple vista. Los rayos infrarrojos
-                    calientan su cuerpo sin tener que calentar el aire, a través de un proceso llamado de conversión.
-                    Los infrarrojos son un tipo de calor que se produce cuando nuestro cuerpo hace esfuerzos. Sin este
-                    calor, no se podría vivir.</p>
-
-                <h4>¿CÓMO NOS BENEFICIA?</h4>
-
-                <p>Los rayos infrarrojos penetran al cuerpo y hay un efecto térmico profundo en los tejidos del músculo
-                    y los órganos internos. Nuestro cuerpo reacciona a la calefacción creciente con el proceso de
-                    enfriamiento natural de la transpiración. Con este proceso, liberamos de nuestro cuerpo toxinas:
-                    sodio, alcohol, nicotina, colesterol y los metales pesados potencialmente carcinógenos se quitan de
-                    las células (especialmente cinc, plomo, níquel, cadmio, etc.). Así como los poros de nuestra piel se
-                    abren y descargan los residuos, la piel pierde cualquier vieja célula epitelial, brilla intensamente
-                    y se limpia inmaculadamente. Adquiere tono, elasticidad, textura y mejor color.</p>
+                <p> ↓ Material: Tejido de poliester 1100dtex</p>
+                <p> ↓ Peso: 600 g/m2</p>
+                <p> ↓ Color: Azul exterior y negro interior.</p>
+                <p> ↓ Accesorios incluidos en el precio: Tensores de 8 mm de diametro, Anclajes y cabezal.</p>
 
 
+
+                <h4>COBERTOR O LONA TERMICA</h4>
+
+                <p> El cobertor solar aumenta la temperatura del agua gracias a la cámara de aire de sus burbujas que
+                    recogen el calor de los rayos solares, adelantando así la temporada del baño.</p>
+
+                <h4>¿CÓMO FUNCIONA?</h4>
+                <p> ↓ El agua se calienta durante las horas de insolación y durante la noche el aire se enfría y a su
+                    vez enfría el agua de la piscina. Con el Cobertor Solar aislamos el agua del aire e impedimos en
+                    gran medida ese enfriamiento.</p>
+                <p> ↓ Detiene la evaporación, con el consiguiente ahorro de agua y productos químicos de mantenimiento.
+                    En piscinas cubiertas esta cualidad lo convierte en un accesorio imprescindible al evitar el exceso
+                    de humedad y su posterior condensación sobre techo y paredes.</p>
+
+
+                <p> ↓ En piscinas climatizadas reduce el gasto energético hasta un
+                    60 % de la factura de climatización. Y es el complemento que nos permite obtener el máximo
+                    rendimiento en instalaciones de energía solar.</p>
+                <p> ↓ El Cobertor solar, por su poco peso y poder de flotación, se extiende y recoge con facilidad.
+                    También podemos utilizar un enrollador manual que simplifica aún más esta operación</p>
+                <h4>CONSEJOS…</h4>
+                <p> ↓ La burbuja va en contacto con el agua y la cara lisa hacia el exteriror.</p>
+                <p> ↓ Retirar por completo el cobertor al bañarse.</p>
+                <p> ↓ Este cobertor no es de seguridad. Para evitar accidentes no se debe andar, jugar o nadar sobre el.
+                </p>
+                <p> ↓ Para mayor duración del material conviene protegerlo del sol cuando esté plegado o enrollado</p>
 
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
                                 alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    Excelente
+                                    COBERTOR O LONA TERMICA
                                 </a>
                             </h3>
 
@@ -145,23 +149,7 @@
                         <div class="services-content">
                             <h3>
                                 <a href="service-details.html">
-                                    Para ti
-                                </a>
-                            </h3>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-services">
-                        <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
-                        </a>
-                        <div class="services-content">
-                            <h3>
-                                <a href="service-details.html">
-                                    Relajo al maximo
+                                    COBERTOR O LONA TERMICA
                                 </a>
                             </h3>
 
@@ -174,7 +162,28 @@
     </section>
 
 
-
+    <section class="subscribe-area">
+        <div class="container ptb-100">
+            <div class="row align-items-center">
+                <div class="col-lg-3 col-md-4">
+                    <div class="subscribe-content">
+                        <span>SUBSCRIBE TO OUR</span>
+                        <h2>Newsletter</h2>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-8">
+                    <form class="newsletter-form" data-toggle="validator">
+                        <input type="email" class="form-control" placeholder="Enter email address" name="EMAIL" required
+                            autocomplete="off">
+                        <button class="default-btn" type="submit">
+                            <span>Subscribe now</span>
+                        </button>
+                        <div id="validator-newsletter" class="form-result"></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <?php include 'footer.php'; ?>

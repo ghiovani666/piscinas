@@ -122,12 +122,12 @@
                 </p>
                 <p> ↓ Para mayor duración del material conviene protegerlo del sol cuando esté plegado o enrollado</p>
 
-
-                <div class="row" style="margin-top:70px">
-                <div class="col-lg-6 col-sm-6">
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                            <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinasarroyomolinos.es/s/cc_images/cache_36914172.jpg?t=1567595237"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -140,10 +140,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinasarroyomolinos.es/s/cc_images/cache_36914173.jpg?t=1567595352"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -158,9 +158,6 @@
                 </div>
 
             </div>
-
-            </div>
-
         </div>
     </section>
 

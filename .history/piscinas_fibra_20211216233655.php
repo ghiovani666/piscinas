@@ -91,12 +91,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(1)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(1)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -117,12 +117,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(2)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(2)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -143,12 +143,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(3)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(3)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -169,12 +169,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(4)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(4)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -195,12 +195,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(5)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(5)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -221,12 +221,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(6)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(6)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -248,12 +248,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(7)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(7)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -275,12 +275,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(8)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(8)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -301,12 +301,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(9)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(9)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -327,12 +327,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(10)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(10)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -353,12 +353,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(11)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(11)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -379,12 +379,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(12)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(12)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -405,12 +405,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(13)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(13)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -431,12 +431,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(14)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(14)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -458,12 +458,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(15)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(15)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -484,12 +484,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(16)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(16)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -510,12 +510,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(17)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(17)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -537,12 +537,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(18)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(18)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -563,12 +563,12 @@
                                 alt="Image">
                             <ul>
                                 <li>
-                                    <a href="#product-view-one" onclick="openModal(19)">
+                                    <a href="#product-view-one" data-bs-toggle="modal">
                                         <i class="bx bx-show-alt"></i>
                                     </a>
                                 </li>
                             </ul>
-                            <a href="#product-view-one" onclick="openModal(19)" class="default-btn">
+                            <a href="#product-view-one" data-bs-toggle="modal" class="default-btn">
                                 <span>Ver Detalle</span>
                             </a>
                         </div>
@@ -588,7 +588,7 @@
 
 
 
-    <div class="modal  product-view-one" id="myModal">
+    <div class="modal fade product-view-one" id="product-view-one">
         <div class="modal-dialog">
             <div class="modal-content">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -599,8 +599,30 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="product-view-one-image">
-                            <div id="big" class="owl-carousel owl-theme imagenes_sliders"></div>
-                            <!-- <div id="thumbs" class="owl-carousel owl-theme imagenes_sliders"></div> -->
+                            <div id="big" class="owl-carousel owl-theme">
+
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-1-small.jpg" alt="Image">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-2-small.jpg" alt="Image">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-3-small.jpg" alt="Image">
+                                </div>
+
+                            </div>
+                            <div id="thumbs" class="owl-carousel owl-theme">
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-1-small.jpg" alt="Image">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-2-small.jpg" alt="Image">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/img/resources/bahia-3-small.jpg" alt="Image">
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -720,209 +742,6 @@
 <!-- Mirrored from templates.envytheme.com/Piscinas Arroyomolinos/default/services-style-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 May 2021 17:56:04 GMT -->
 <script>
 $("#id_about_home").hide()
-let htmls_1 = '<div class="item">'
-htmls_1 += '<img src="assets/img/resources/acapulco-medidas-coinpol.jpg" alt="Image">'
-htmls_1 += '</div>'
-
-let htmls_2 = '<div class="item">'
-htmls_2 += '<img src="assets/img/resources/bahia-1-small.jpg" alt="Image">'
-htmls_2 += '</div>'
-htmls_2 += '<div class="item">'
-htmls_2 += '<img src="assets/img/resources/bahia-2-small.jpg" alt="Image">'
-htmls_2 += '</div>'
-htmls_2 += '<div class="item">'
-htmls_2 += '<img src="assets/img/resources/bahia-3-small.jpg" alt="Image">'
-htmls_2 += '</div>'
-
-let htmls_3 = '<div class="item">'
-htmls_3 += '<img src="assets/img/resources/balear-medidas-coinpol.jpg" alt="Image">'
-htmls_3 += '</div>'
-
-
-
-
-let row_1_1 = '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-1-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-row_1_1 += '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-2-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-row_1_1 += '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-3-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-
-let row_1_2 = '<div class="item">'
-row_1_2 += '<img src="assets/img/resources/images/row-1/canarias-medidas-coinpol.jpg" alt="Image">'
-row_1_2 += '</div>'
-
-let row_1_3 = '<div class="item">'
-row_1_3 += '<img src="assets/img/resources/images/row-1/comunidad-1-medidas-coinpol.jpg" alt="Image">'
-row_1_3 += '</div>'
-row_1_3 += '<div class="item">'
-row_1_3 += '<img src="assets/img/resources/images/row-1/comunidad-2-medidas-coinpol.jpg" alt="Image">'
-row_1_3 += '</div>'
-
-
-let row_2_1 = '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-1-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-row_2_1 += '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-2-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-row_2_1 += '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-3-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-
-
-let row_2_2 = '<div class="item">'
-row_2_2 += '<img src="assets/img/resources/images/row-2/dora-1-medidas-coinpol.jpg" alt="Image">'
-row_2_2 += '</div>'
-row_2_2 += '<div class="item">'
-row_2_2 += '<img src="assets/img/resources/images/row-2/dora-2-medidas-coinpol.jpg" alt="Image">'
-row_2_2 += '</div>'
-
-let row_2_3 = '<div class="item">'
-row_2_3 += '<img src="assets/img/resources/images/row-2/gala-1-medidas-coinpol.jpg" alt="Image">'
-row_2_3 += '</div>'
-row_2_3 += '<div class="item">'
-row_2_3 += '<img src="assets/img/resources/images/row-2/gala-2-medidas-coinpol.jpg" alt="Image">'
-row_2_3 += '</div>'
-
-
-
-
-let row_3_1 = '<div class="item">'
-row_3_1 += '<img src="assets/img/resources/images/row-3/gondola-2-medidas-coinpol.jpg" alt="Image">'
-row_3_1 += '</div>'
-row_3_1 += '<div class="item">'
-row_3_1 += '<img src="assets/img/resources/images/row-3/gondola-3-medidas-coinpol.jpg" alt="Image">'
-row_3_1 += '</div>'
-
-let row_3_2 = '<div class="item">'
-row_3_2 += '<img src="assets/img/resources/images/row-3/ilusion-medidas-coinpol.jpg" alt="Image">'
-row_3_2 += '</div>'
-
-let row_3_3 = '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-1-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-row_3_3 += '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-2-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-row_3_3 += '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-3-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-
-let row_4_1 = '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-1-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-row_4_1 += '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-2-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-row_4_1 += '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-3-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-
-let row_4_2 = '<div class="item">'
-row_4_2 += '<img src="assets/img/resources/images/row-4/peninusla-1.jpg" alt="Image">'
-row_4_2 += '</div>'
-row_4_2 += '<div class="item">'
-row_4_2 += '<img src="assets/img/resources/images/row-4/peninusla-2.jpg" alt="Image">'
-row_4_2 += '</div>'
-
-let row_4_3 = '<div class="item">'
-row_4_3 += '<img src="assets/img/resources/images/row-4/sirena-1.jpg" alt="Image">'
-row_4_3 += '</div>'
-row_4_3 += '<div class="item">'
-row_4_3 += '<img src="assets/img/resources/images/row-4/sirena-2.jpg" alt="Image">'
-row_4_3 += '</div>'
-
-let row_5_1 = '<div class="item">'
-row_5_1 += '<img src="assets/img/resources/images/row-5/spa-padron.jpg" alt="Image">'
-row_5_1 += '</div>'
-
-let row_5_2 = '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-1-1.jpg" alt="Image">'
-row_5_2 += '</div>'
-row_5_2 += '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-2-1.jpg" alt="Image">'
-row_5_2 += '</div>'
-row_5_2 += '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-3.jpg" alt="Image">'
-row_5_2 += '</div>'
-
-let row_5_3 = '<div class="item">'
-row_5_3 += '<img src="assets/img/resources/images/row-5/venus-spa.jpg" alt="Image">'
-row_5_3 += '</div>'
-
-let row_6_1 = '<div class="item">'
-row_6_1 += '<img src="assets/img/resources/images/row-6/continental-1.jpg" alt="Image">'
-row_6_1 += '</div>'
-
-
-
-
-function openModal(isValues) {
-    if (isValues == 1) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(htmls_1);
-    } else if (isValues == 2) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(htmls_2);
-    } else if (isValues == 3) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(htmls_3);
-    } else if (isValues == 4) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_1);
-    } else if (isValues == 5) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_2);
-    } else if (isValues == 6) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_3);
-    } else if (isValues == 7) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_1);
-    } else if (isValues == 8) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_2);
-    } else if (isValues == 9) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_3);
-    } else if (isValues == 10) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_1);
-    } else if (isValues == 11) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_2);
-    } else if (isValues == 12) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_3);
-    } else if (isValues == 13) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_1);
-    } else if (isValues == 14) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_2);
-    } else if (isValues == 15) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_3);
-    } else if (isValues == 16) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_1);
-    } else if (isValues == 17) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_2);
-    } else if (isValues == 18) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_3);
-    } else if (isValues == 19) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_3);
-    }
-
-
-}
 </script>
 
 <style type="text/css">

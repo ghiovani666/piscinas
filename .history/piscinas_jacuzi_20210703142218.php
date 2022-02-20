@@ -123,8 +123,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461306434.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
@@ -139,8 +138,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461306436.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>
@@ -155,8 +153,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
-                                alt="Image">
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461306440.jpg" alt="Image">
                         </a>
                         <div class="services-content">
                             <h3>

@@ -140,7 +140,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461304880.jpg"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -156,7 +156,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461304884.jpg"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -172,7 +172,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461304883.JPG"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -188,7 +188,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461304885.jpg"
                                 alt="Image">
                         </a>
                         <div class="services-content">
@@ -204,7 +204,7 @@
                 <div class="col-lg-4 col-sm-6">
                     <div class="single-services">
                         <a href="javascript:void(0)">
-                        <img src="https://piscinas.coinpol.com/wp-content/uploads/2021/02/portada-acapulco.png"
+                            <img src="http://www.piscinascuamar.com/s/cc_images/cache_2461304886.jpg"
                                 alt="Image">
                         </a>
                         <div class="services-content">

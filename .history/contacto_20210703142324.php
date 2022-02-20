@@ -140,12 +140,12 @@
                             <div class="contact-title">
                                 <h2>¿Listo para empezar?</h2>
                             </div>
-                            <form class="we-area-form" id="myform2" method="post">
+                            <form id="contactForm">
                                 <div class="row">
                                     <div class="col-lg-6 col-sm-6">
                                         <div class="form-group">
                                             <label>Nombre</label>
-                                            <input type="text" name="txt_contac_nombre" id="name" class="form-control" required
+                                            <input type="text" name="name" id="name" class="form-control" required
                                                 data-error="Please enter your name">
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -153,15 +153,15 @@
                                     <div class="col-lg-6 col-sm-6">
                                         <div class="form-group">
                                             <label>Correo Electrónico</label>
-                                            <input type="email" name="txt_contac_email" id="email" class="form-control" required
+                                            <input type="email" name="email" id="email" class="form-control" required
                                                 data-error="Please enter your email">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                     <div class="col-12">
                                         <div class="form-group">
-                                            <label>Teléfono</label>
-                                            <input type="text" name="txt_contac_telefono" id="msg_subject" class="form-control"
+                                            <label>Asunto</label>
+                                            <input type="text" name="msg_subject" id="msg_subject" class="form-control"
                                                 required data-error="Please enter your subject">
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -169,7 +169,7 @@
                                     <div class="col-12">
                                         <div class="form-group">
                                             <label>Mensaje</label>
-                                            <textarea  name="txt_contac_mensaje" id="message" class="form-control"cols="30"
+                                            <textarea name="message" class="form-control" id="message" cols="30"
                                                 rows="10" required data-error="Write your message"></textarea>
                                             <div class="help-block with-errors"></div>
                                         </div>
@@ -228,35 +228,10 @@
     <script src="assets/js/ajaxchimp.min.js"></script>
 
     <script src="assets/js/custom.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.all.min.js"></script>
 </body>
 
 <!-- Mirrored from templates.envytheme.com/Piscinas Arroyomolinos/default/services-style-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 May 2021 17:56:04 GMT -->
 <script>
     $("#id_about_home").hide()
-
-    //enviar contacto
-$("#myform2").submit(function(e) {
-    e.preventDefault();
-    $.ajax({
-        type: 'post',
-        url: 'ajax/email_contacto.php',
-        data: $('form').serialize(),
-        success: function(response) {
-            console.log(response)
-        }
-    });
-});
-
-
-$("#myform2").submit(function(e) {
-    e.preventDefault();
-    Swal.fire({
-        title: 'Envío exitoso'
-    })
-    $('input').val('')
-    $('textarea').val('')
-});
-
 </script>
 </html>

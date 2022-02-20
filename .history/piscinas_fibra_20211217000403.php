@@ -588,7 +588,7 @@
 
 
 
-    <div class="modal  product-view-one" id="myModal">
+    <div class="modal fade product-view-one" id="myModal">
         <div class="modal-dialog">
             <div class="modal-content">
                 <button type="button" class="close" data-bs-dismiss="modal">
@@ -739,128 +739,6 @@ htmls_3 += '<img src="assets/img/resources/balear-medidas-coinpol.jpg" alt="Imag
 htmls_3 += '</div>'
 
 
-
-
-let row_1_1 = '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-1-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-row_1_1 += '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-2-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-row_1_1 += '<div class="item">'
-row_1_1 += '<img src="assets/img/resources/images/row-1/beatriz-3-medidas-coinpol.jpg" alt="Image">'
-row_1_1 += '</div>'
-
-let row_1_2 = '<div class="item">'
-row_1_2 += '<img src="assets/img/resources/images/row-1/canarias-medidas-coinpol.jpg" alt="Image">'
-row_1_2 += '</div>'
-
-let row_1_3 = '<div class="item">'
-row_1_3 += '<img src="assets/img/resources/images/row-1/comunidad-1-medidas-coinpol.jpg" alt="Image">'
-row_1_3 += '</div>'
-row_1_3 += '<div class="item">'
-row_1_3 += '<img src="assets/img/resources/images/row-1/comunidad-2-medidas-coinpol.jpg" alt="Image">'
-row_1_3 += '</div>'
-
-
-let row_2_1 = '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-1-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-row_2_1 += '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-2-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-row_2_1 += '<div class="item">'
-row_2_1 += '<img src="assets/img/resources/images/row-2/Diana-3-570x245.jpg" alt="Image">'
-row_2_1 += '</div>'
-
-
-let row_2_2 = '<div class="item">'
-row_2_2 += '<img src="assets/img/resources/images/row-2/dora-1-medidas-coinpol.jpg" alt="Image">'
-row_2_2 += '</div>'
-row_2_2 += '<div class="item">'
-row_2_2 += '<img src="assets/img/resources/images/row-2/dora-2-medidas-coinpol.jpg" alt="Image">'
-row_2_2 += '</div>'
-
-let row_2_3 = '<div class="item">'
-row_2_3 += '<img src="assets/img/resources/images/row-2/gala-1-medidas-coinpol.jpg" alt="Image">'
-row_2_3 += '</div>'
-row_2_3 += '<div class="item">'
-row_2_3 += '<img src="assets/img/resources/images/row-2/gala-2-medidas-coinpol.jpg" alt="Image">'
-row_2_3 += '</div>'
-
-
-
-
-let row_3_1 = '<div class="item">'
-row_3_1 += '<img src="assets/img/resources/images/row-3/gondola-2-medidas-coinpol.jpg" alt="Image">'
-row_3_1 += '</div>'
-row_3_1 += '<div class="item">'
-row_3_1 += '<img src="assets/img/resources/images/row-3/gondola-3-medidas-coinpol.jpg" alt="Image">'
-row_3_1 += '</div>'
-
-let row_3_2 = '<div class="item">'
-row_3_2 += '<img src="assets/img/resources/images/row-3/ilusion-medidas-coinpol.jpg" alt="Image">'
-row_3_2 += '</div>'
-
-let row_3_3 = '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-1-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-row_3_3 += '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-2-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-row_3_3 += '<div class="item">'
-row_3_3 += '<img src="assets/img/resources/images/row-3/lanzarote-3-medidas-coinpol.jpg" alt="Image">'
-row_3_3 += '</div>'
-
-let row_4_1 = '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-1-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-row_4_1 += '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-2-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-row_4_1 += '<div class="item">'
-row_4_1 += '<img src="assets/img/resources/images/row-4/marina-3-medidas-coinpol.jpg" alt="Image">'
-row_4_1 += '</div>'
-
-let row_4_2 = '<div class="item">'
-row_4_2 += '<img src="assets/img/resources/images/row-4/peninusla-1.jpg" alt="Image">'
-row_4_2 += '</div>'
-row_4_2 += '<div class="item">'
-row_4_2 += '<img src="assets/img/resources/images/row-4/peninusla-2.jpg" alt="Image">'
-row_4_2 += '</div>'
-
-let row_4_3 = '<div class="item">'
-row_4_3 += '<img src="assets/img/resources/images/row-4/sirena-1.jpg" alt="Image">'
-row_4_3 += '</div>'
-row_4_3 += '<div class="item">'
-row_4_3 += '<img src="assets/img/resources/images/row-4/sirena-2.jpg" alt="Image">'
-row_4_3 += '</div>'
-
-let row_5_1 = '<div class="item">'
-row_5_1 += '<img src="assets/img/resources/images/row-5/spa-padron.jpg" alt="Image">'
-row_5_1 += '</div>'
-
-let row_5_2 = '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-1-1.jpg" alt="Image">'
-row_5_2 += '</div>'
-row_5_2 += '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-2-1.jpg" alt="Image">'
-row_5_2 += '</div>'
-row_5_2 += '<div class="item">'
-row_5_2 += '<img src="assets/img/resources/images/row-5/venecia-3.jpg" alt="Image">'
-row_5_2 += '</div>'
-
-let row_5_3 = '<div class="item">'
-row_5_3 += '<img src="assets/img/resources/images/row-5/venus-spa.jpg" alt="Image">'
-row_5_3 += '</div>'
-
-let row_6_1 = '<div class="item">'
-row_6_1 += '<img src="assets/img/resources/images/row-6/continental-1.jpg" alt="Image">'
-row_6_1 += '</div>'
-
-
-
-
 function openModal(isValues) {
     if (isValues == 1) {
         $('#myModal').modal('show');
@@ -868,59 +746,11 @@ function openModal(isValues) {
     } else if (isValues == 2) {
         $('#myModal').modal('show');
         $(".imagenes_sliders").html(htmls_2);
-    } else if (isValues == 3) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(htmls_3);
-    } else if (isValues == 4) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_1);
-    } else if (isValues == 5) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_2);
-    } else if (isValues == 6) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_1_3);
-    } else if (isValues == 7) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_1);
-    } else if (isValues == 8) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_2);
-    } else if (isValues == 9) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_2_3);
-    } else if (isValues == 10) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_1);
-    } else if (isValues == 11) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_2);
-    } else if (isValues == 12) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_3_3);
-    } else if (isValues == 13) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_1);
-    } else if (isValues == 14) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_2);
-    } else if (isValues == 15) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_4_3);
-    } else if (isValues == 16) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_1);
-    } else if (isValues == 17) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_2);
-    } else if (isValues == 18) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_3);
-    } else if (isValues == 19) {
-        $('#myModal').modal('show');
-        $(".imagenes_sliders").html(row_5_3);
     }
-
+} else if (isValues == 3) {
+    $('#myModal').modal('show');
+    $(".imagenes_sliders").html(htmls_3);
+}
 
 }
 </script>

@@ -46,8 +46,8 @@
                                         <i style="color: white;padding-left: 15px;" class="bx bxl-facebook"></i>
                                     </a>
 
-                                    <a href="https://www.instagram.com/piscinasarroyomolinos/" target="_blank">
-                                        <i style="color: white;padding-left: 15px;" class="bx bxl-instagram"></i>
+                                    <a href="https://twitter.com/cuamarpiscinas" target="_blank">
+                                        <i style="color: white;padding-left: 15px;" class="bx bxl-twitter"></i>
                                     </a>
 
                                 </div>
